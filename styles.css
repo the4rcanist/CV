@@ -1,0 +1,86 @@
+body {
+    background-color: #454545;
+}
+
+/* Geral */
+
+.caixa_geral {
+    top: 20%;
+    background-color: #fff;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    border: 20%;
+    padding: 30px;
+    border-radius: 10px;
+    min-height: 100vh;
+    box-shadow: 0 50px 75px rgba(0, 0, 0, 0.1);
+}
+
+.title, h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    color: #333;
+}
+
+h3,h4 {
+    font-family: "Poppins", sans-serif;
+    color: #4477ad;
+    font-weight: 600;
+}
+
+h2 {
+    border-left: 4px solid red;
+    padding-left: 10px;
+}
+
+.subtitle {
+    font-weight: 300;
+    color: #333;
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 0.1em;
+    font-size: medium;
+}
+
+/* header */
+
+.header {
+    background-color: white;
+    border: 20%;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 3%;
+}
+
+.education {
+    background-color: white;
+    border: 20%;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 3%;
+}
+
+.projetos {
+    background-color: white;
+    border: 20%;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 3%;
+}
+
+.skills {
+    background-color: white;
+    border: 20%;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 3%;
+}
+
+.experiences {
+    background-color: white;
+    border: 20%;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 3%;
+}
