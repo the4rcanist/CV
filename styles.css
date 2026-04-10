@@ -1,13 +1,12 @@
+/* Geral */
+
 body {
     background-color: #454545;
 }
 
-/* Geral */
-
 .caixa_geral {
     top: 20%;
     background-color: #fff;
-    width: 100%;
     max-width: 1000px;
     margin: auto;
     border: 20%;
@@ -16,6 +15,8 @@ body {
     min-height: 100vh;
     box-shadow: 0 50px 75px rgba(0, 0, 0, 0.1);
 }
+
+/*header*/
 
 .title, h2 {
     font-family: "Poppins", sans-serif;
